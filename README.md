@@ -174,7 +174,14 @@ This project is licensed under the ISC License.
 - [ ] Database integration for persistent data
 - [ ] Real-time messaging between tracked devices
 
-## 📞 Support
+## �‍💻 Credits
+
+**Developer**: Shreyam Regmi
+- Original creator and developer of the Live Device Tracker system
+- Implementation of real-time location tracking functionality
+- Integration of Socket.IO and Leaflet.js mapping system
+
+## �📞 Support
 
 If you encounter any issues or have questions, please:
 1. Check the existing issues on GitHub
@@ -183,4 +190,4 @@ If you encounter any issues or have questions, please:
 
 ---
 
-**Built with ❤️ using Node.js and Socket.IO**
+**Built with ❤️ using Node.js and Socket.IO by Shreyam Regmi**
